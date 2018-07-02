@@ -1,6 +1,6 @@
 
 public class YbTest {
 	public static void main(String[] args) {
-		System.out.println("ºóºó..");
+		System.out.println("bin..");
 	}
 }
