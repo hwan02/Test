@@ -4,4 +4,3 @@ public class test {
 		System.out.println("이예린");
 		System.out.println("진환");
 	}
-}
