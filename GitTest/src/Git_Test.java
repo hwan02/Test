@@ -2,7 +2,7 @@
 public class Git_Test {
 
 	public static void main(String[] args) {
-		System.out.println("영석22222ㅈ");
+		System.out.println("영석22222");
 
 	}
 
