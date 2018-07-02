@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class test {
 	public static void main(String[] args) {
 		System.out.println("각자 자신의 이름 입력 :");
@@ -6,4 +7,12 @@ public class test {
 		System.out.println("br");
 		System.out.println("rr");
 	}
+=======
+
+
+public class test {
+	public static void main(String[] args) {
+		System.out.println("yong");
+	}
+>>>>>>> yb
 }
