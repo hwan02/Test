@@ -1,7 +1,15 @@
 
+
 public class test {
 	public static void main(String[] args) {
-		System.out.println("°¢ÀÚ ÀÚ½ÅÀÇ ÀÌ¸§ ÀÔ·Â :");
-		System.out.println("¿ëºó1");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½Ú½ï¿½ï¿½ï¿½ ï¿½Ì¸ï¿½ ï¿½Ô·ï¿½ :");
+		System.out.println("ï¿½ï¿½ï¿½1");
+
+public class test {
+	public static void main(String[] args) {
+		System.out.println("ê°ì ìì‹ ì˜ ì´ë¦„ ì…ë ¥ :");
+		System.out.println("ì˜ì„");
+    System.out.println("ì§„í™˜");
+
 	}
 }
